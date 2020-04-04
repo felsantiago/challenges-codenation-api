@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<a href="https://insomnia.rest/run/?label=doe-maratona-dev&uri=https%3A%2F%2Fraw.githubusercontent.com%2Ffelsantiago%2Fdoe-maratona-dev-3%2Fmaster%2Finsonmia-doe-maratona-dev.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia" width="90px"></a>
+<a href="https://insomnia.rest/run/?label=challenges-codenation&uri=https%3A%2F%2Fraw.githubusercontent.com%2Ffelsantiago%2Fchallenges-codenation-api%2Fmaster%2Fcodenation-insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
 </div>
 
